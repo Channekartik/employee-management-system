@@ -63,7 +63,7 @@ npm start
 | Role  | Email                  | Password    |
 |-------|------------------------|-------------|
 | ADMIN | admin@company.com      | Admin@1234  |
-| USER  | user@company.com       | Admin@1234  |
+| USER  | user@company.com       | User@1234  |
 
 ---
 
