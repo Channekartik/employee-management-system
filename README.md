@@ -171,3 +171,16 @@ Authorization: Bearer <token>
 | Database   | MySQL 8                 |
 | Passwords  | BCrypt (strength 12)    |
 | Build      | Maven                   |
+## Project Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Employee List
+![Employee List](screenshots/employee-list.png)
+
+### Add Employee
+![Add Employee](screenshots/add-employee.png)
